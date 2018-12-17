@@ -1,12 +1,6 @@
 # Spring-Boot-With-JSF
 
-This project is combination of Spring Boot and JSF with maven multi module architecture.
-# Data Base:
-PostgreSQL
-
-I'm using postgreSQL (Schema will be created by it self) 
-but url,username, password and port you have set in web\src\main\resources application.properties file
-Web Module is main Module.
+This project is combination of Spring Boot and JSF with maven architecture.
 
 Please execute run.bat (Windows)
 
