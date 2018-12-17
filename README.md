@@ -1,6 +1,7 @@
 # Spring-Boot-With-JSF
 
-This project is combination of Spring Boot and JSF with maven architecture for bigners.
+This project is for bigners and it's combination of Spring Boot and JSF with maven architecture.
+(with out web.xml)
 
 Please execute run.bat (Windows)
 
